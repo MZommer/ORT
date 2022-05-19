@@ -1,0 +1,16 @@
+{
+  "name": "TP01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ej1 && node ej2 && node ej3 && node ej4 && node ej5 && node ej7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currency-codes": "^2.1.0"
+  }
+}
