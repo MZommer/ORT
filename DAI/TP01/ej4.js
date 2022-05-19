@@ -1,6 +1,6 @@
 const fs = require('fs');
 const copiar = (source, output) => 
-    fs.copyFile(source, output, (err) => {
+    fs.copyFile(source, output, err => {
         if (err)
             console.error(err);
         else
