@@ -1,6 +1,6 @@
- # TP01
+# TP01
 ## Introduccion a Node.JS
-
+![N|Solid](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Node.js)
 - EJ01: Desarrollar una aplicación que podamos utilizar es el `console.log()` haciendo pruebas con dos strings, concatenarlos e interpolárlos.
 - EJ02: Crear un módulo matemática `/src/modules/matematica.js` que tenga 4 funciones (dos de ellas arrow functions) y una constante (PI). Exportarlas y utilizarlas en el programa principal.
 - EJ03: Crear una clase Alumno en `/src/models/alumno.js` que tenga dos propiedades (`username`, `DNI`). Instanciar en un programa principal dos objetos y mostrarlos en la consola.
