@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Equipos";
+}
+
+<h1 style="margin:2%;">Equipos</h1>
+<div class="d-flex justify-content-center">
+    <div class="card-deck">
+        @{
+            foreach (string pais in ViewBag.Paises)
+            {
+                string flagpath = "~/img/" + pais + "/" + pais + "_flag.png";
+                <a style="margin:4%" href='@Url.Action("VerJugadoresEquipo", "Equipos",  new {Equipo=pais})'>
+                    <div class="row">
+                        <img src="@flagpath" asp-append-version="true" alt="@pais">
+                    </div>
+                    <div class="row">
+                        <h5>@pais</h5>
+                    </div>
+                </a>
+            }
+        }
+    </div>
+</div>

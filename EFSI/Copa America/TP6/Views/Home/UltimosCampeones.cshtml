@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Campeones";
+}
+<h1 style="margin:1%"> Campeones </h1>
+
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Año</th>
+      <th scope="col">Campeon</th>
+      <th scope="col">Local</th>
+    </tr>
+  </thead>
+  <tbody>
+      @{
+          var flags = new Dictionary<string, string>(){};
+          flags["Argentina"] = "<span class=\"phoca-flag ar\"></span>";
+          flags["Colombia"] = "<span class=\"phoca-flag co\"></span>";
+          flags["Chile"] = "<span class=\"phoca-flag cl\"></span>";
+          flags["Uruguay"] = "<span class=\"phoca-flag uy\"></span>";
+          flags["Brasil"] = "<span class=\"phoca-flag br\"></span>";
+          flags["Perú"] = "<span class=\"phoca-flag pe\"></span>";
+          flags["Bolivia"] = "<span class=\"phoca-flag bo\"></span>";
+          flags["Paraguay"] = "<span class=\"phoca-flag py\"></span>";
+          //For some reason i cant make this tags work
+          foreach(var item in ViewBag.WinnersInfo)
+          {
+                <tr>
+                    <th scope="row">@item.Year</th>
+                    <td>@item.Winner</td>
+                    <td>@item.Local @{/*flags[item.Local]*/}</td>
+                </tr>
+                        }
+      }
+  </tbody>
+</table>

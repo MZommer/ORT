@@ -1,0 +1,2461 @@
+﻿{
+  "Argentina": [
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "4",
+      "Name": "G. Montiel",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/1y74tse0vpdxanxf152cc8jjd.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "13",
+      "Name": "C. Romero",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/2w7i4jfw5wgh3j2wuworoumeh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "17",
+      "Name": "N. Domínguez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/38de1wbyp2ruksgffna791n8p.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "7",
+      "Name": "R. De Paul",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/3ga7qj3h3dbmqucxmaxhmrjdh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "23",
+      "Name": "E. Martínez",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Argentina/thumbs/3zl1q2gk6tdmzirsyfgm38no5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "3",
+      "Name": "N. Tagliafico",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/40hu79d2a4k94nc52z7dblpsl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "9",
+      "Name": "S. Agüero",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Argentina/thumbs/5ch5dk1z9opa2iwd64kb4e5sl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "16",
+      "Name": "J. Correa",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/6d7rip50yu2j7vyk76zokeehh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "21",
+      "Name": "Á. Correa",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Argentina/thumbs/6fdvv4zs5pl6qj7pp6tsp5iad.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "14",
+      "Name": "E. Palacios",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/6rg37ej1x7pwi7r4aq1107pih.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "18",
+      "Name": "G. Rodríguez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/73efpm314q2paeacsvp4e8q8l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "28",
+      "Name": "J. Musso",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Argentina/thumbs/7drgir9lcwfst8vxz07jboe6t.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "11",
+      "Name": "Á. Di María",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/7glxasv2ed6ey82dknto1y66t.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "22",
+      "Name": "Lautaro Martínez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Argentina/thumbs/7r2tgpdrr4v6n9d2gkzwmlazt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "6",
+      "Name": "G. Pezzella",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/7rfcycybym05sbe0j1g6yhfx1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "24",
+      "Name": "A. Gómez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/8tlfkcnlf3dq1katqazub1i39.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "27",
+      "Name": "J. Álvarez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Argentina/thumbs/9ikkuxd19avliz1khcrm82gyy.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "5",
+      "Name": "L. Paredes",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/apdtqouzo9b02ozdxk8mx4zbp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "25",
+      "Name": "Lisandro Martínez",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/b17tkj4ea4jld8yupekcolall.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "12",
+      "Name": "A. Marchesín",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Argentina/thumbs/c1b9p5bk8hfyw0bi6thva0lw5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "10",
+      "Name": "L. Messi",
+      "IsCapitan": true,
+      "Position": "Attacker",
+      "Thumb": "~/img/Argentina/thumbs/c5ryhn04g9goikd0blmh83aol.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "1",
+      "Name": "F. Armani",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Argentina/thumbs/cqvys9cb3es2kekgaxwc05k2d.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "20",
+      "Name": "G. Lo Celso",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/dhtb9gizk25k1u3h0b7xgy4tl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "8",
+      "Name": "M. Acuña",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Argentina/thumbs/djal5dsafpnhip4lu0ait94np.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "15",
+      "Name": "N. González",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Argentina/thumbs/eh1ul4duphy1iz4odwx9tkjjd.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "2",
+      "Name": "Lucas Martínez",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/eq7q971ebxu7ipqbyvj5n4c15.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "26",
+      "Name": "N. Molina",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/ieu0x9fy8hpqyztdjg8bgpnt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Argentina",
+      "Number": "19",
+      "Name": "N. Otamendi",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Argentina/thumbs/x32fbvwwxkda9ruezw67b3dh.png"
+    }
+  ],
+  "Bolivia": [
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "6",
+      "Name": "L. Justiniano",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/2ut16atnf7e0qsuj6p3vpxj9x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "23",
+      "Name": "J. Rojas",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Bolivia/thumbs/4uo5hk4vchlb997oh7bihy1g5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "14",
+      "Name": "M. Villarroel",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/4y94vmk7drqhkfg1jdphe1y39.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "10",
+      "Name": "H. Vaca",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/5hctwbrno5mtcww4yudue6489.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "2",
+      "Name": "J. Quinteros",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/5rgdmic20gpafkpzd1b0reyqy.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "27",
+      "Name": "O. Ribera",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/5urxl6iwxe30tww1fgxzr7mj9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "20",
+      "Name": "R. Vaca",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/723x2qb9dtq2ve5s4kisa1vqh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "25",
+      "Name": "J. Chura",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/7efddnh51d2ku2x8hu77124x6.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "8",
+      "Name": "D. Bejarano",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/7lzbl66mipsamsjzgkvv9d979.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "13",
+      "Name": "D. Wayar",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/7ygyn2gncrzp3cd217j8iyfh1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "12",
+      "Name": "R. Cordano",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Bolivia/thumbs/8ui1xtwqgum6fz40xoillgq21.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "22",
+      "Name": "D. Bejarano",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/8z9ynv70bwrwszoq80khc0afp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "17",
+      "Name": "R. Fernández",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/960pkokftvcj471kktood5zze.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "3",
+      "Name": "J. Sagredo",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/96d4n047ccb1djdrynxiiplud.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "21",
+      "Name": "E. Sánchez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/9km22spwlom2aod1lzl8n1gix.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "5",
+      "Name": "A. Jusino",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/9qfijekrjyw76nngw862mv6jt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "16",
+      "Name": "E. Saavedra",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/atuiqjc2jxyzjgh83dbzrg89h.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "11",
+      "Name": "R. Ramallo",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Bolivia/thumbs/c3hcmzn4op9hbw9cgohj07y6t.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "15",
+      "Name": "B. Cespedes",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Bolivia/thumbs/c4qfna1t0zw84cfi3l562lsl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "4",
+      "Name": "L. Haquín",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/cdghaqb9tpzulburb7sdydbe1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "7",
+      "Name": "J. Arce",
+      "IsCapitan": true,
+      "Position": "Attacker",
+      "Thumb": "~/img/Bolivia/thumbs/cjgapmllrfxky5d58vkjm6v2t.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "19",
+      "Name": "J. Flores",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/d34kl69v1sesgbg6rsu15ttqt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "24",
+      "Name": "J. Cuéllar",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Bolivia/thumbs/ddgyyquosi81aunbbn61bjobt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "18",
+      "Name": "G. Álvarez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Bolivia/thumbs/dk87s27ycrke5fj8gj8niholx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "26",
+      "Name": "L. Barboza",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Bolivia/thumbs/enstue0gcfswkr5jpn4vzpbdh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "9",
+      "Name": "M. Martins",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Bolivia/thumbs/eyzz3zd2sp9us17lmnqt26kt1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Bolivia",
+      "Number": "1",
+      "Name": "C. Lampe",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Bolivia/thumbs/h3k5jhr99jelxpwlt1wocmhh.png"
+    }
+  ],
+  "Brasil": [
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "23",
+      "Name": "Ederson Moraes",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Brasil/thumbs/23637o19ff0sw18pqv8g96ndh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "6",
+      "Name": "Alex Sandro",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/2raf0uw5y2kajde0v60l4g1qt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "21",
+      "Name": "Gabriel Barbosa",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Brasil/thumbs/3cofgg3vjy80x9y83c3clnm51.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "1",
+      "Name": "Alisson",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Brasil/thumbs/53d0pvr7ylvfhp6p749iniqc5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "16",
+      "Name": "Renan Lodi",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/59wmst2hxu6y4zut9a48jxiw9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "20",
+      "Name": "Roberto Firmino",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Brasil/thumbs/6b9erfx1rf9nff83300tntadx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "5",
+      "Name": "Casemiro",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Brasil/thumbs/6nb8hub5usi3iasywa2fjf1lh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "10",
+      "Name": "Neymar",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Brasil/thumbs/779rrkp47akkd5usq53begatx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "25",
+      "Name": "Douglas Luiz",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Brasil/thumbs/7j84ozqdpgupzxevbxemi5tyh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "15",
+      "Name": "Fabinho",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Brasil/thumbs/7mms3tmwizhtvzakotl4hv0et.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "11",
+      "Name": "Éverton Ribeiro",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Brasil/thumbs/8bc5urcbeg4hqkxmfn924rsgl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "14",
+      "Name": "Éder Militão",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/8wvkrrbqqthuwda8twg03yuax.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "2",
+      "Name": "Danilo",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/8yv9xuzriaecvvssfm8dlmz85.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "4",
+      "Name": "Marquinhos",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/8z0395s37qe2lqi9qsvyskgk5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "13",
+      "Name": "Emerson",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/anxby26pfxpu4u5bfy9nbuvah.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "17",
+      "Name": "Lucas Paquetá",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Brasil/thumbs/at7mm2zrj2hjhu4bnq1f9noix.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "18",
+      "Name": "Vinícius Júnior",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Brasil/thumbs/b4witgokm49tidm1a83qcvbop.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "7",
+      "Name": "Richarlison",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Brasil/thumbs/c5zmr0m17riujelm4up44etih.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "3",
+      "Name": "Thiago Silva",
+      "IsCapitan": true,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/c6pqhaqusk8s1c2m21i5wtrkl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "9",
+      "Name": "Gabriel Jesus",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Brasil/thumbs/d66tmyj9pt69gub8pcjgo3bh1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "8",
+      "Name": "Fred",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Brasil/thumbs/dubi41xs74u89icfnn80vxx3p.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "19",
+      "Name": "Éverton",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Brasil/thumbs/ewx7srphr7r8ddb0fev7uo0yd.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "22",
+      "Name": "Felipe",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Brasil/thumbs/f30avgacyfz88ppw9mh8v57md.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Brasil",
+      "Number": "12",
+      "Name": "Weverton",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Brasil/thumbs/gr7cjsip4a8191pdzs6cz4d1.png"
+    }
+  ],
+  "Chile": [
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "2",
+      "Name": "E. Mena",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/1p22w96sxfczniz1xc4iihyvp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "1",
+      "Name": "C. Bravo",
+      "IsCapitan": true,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Chile/thumbs/1vn3xi2x6vtjor1bt1ob1vk5x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "3",
+      "Name": "G. Maripán",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/270djbc9lxhoupmd1djrii191.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "4",
+      "Name": "M. Isla",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/278weiaf1t4ruokno9w78bf11.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "24",
+      "Name": "L. Arriagada",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Chile/thumbs/2v1gnc16lhwfsr26o8b10czfu.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "5",
+      "Name": "E. Roco",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/2zn2o5lzchz7oattq9pnjr8wl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "21",
+      "Name": "C. Palacios",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Chile/thumbs/2ztfs9tfd4ztq5fleycxf11t6.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "9",
+      "Name": "J. Meneses",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/36bbkyoy8zyyzsbos2ex0fzdh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "25",
+      "Name": "M. Nuñez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/46zgunubdbe82ow2md0xf6o2y.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "18",
+      "Name": "S. Vegas",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/4rp06cf9n8lvit3932bh6jq39.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "17",
+      "Name": "G. Medel",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/4zn8zufrd17h9d5xl7qhahbyt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "12",
+      "Name": "G. Arias",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Chile/thumbs/7mux8b2j8tkxntcy7u4ug88gl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "28",
+      "Name": "C. Baeza",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/7psi7pfvwt7kf6xlwrs35fwt1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "15",
+      "Name": "D. Gónzalez",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/84dg7hl1lq8j7ln1enp7dopyi.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "14",
+      "Name": "P. Galdames",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/860ysqvvnpfya7bwxbe4g0wk5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "11",
+      "Name": "E. Vargas",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Chile/thumbs/8vzp8ywd7n1bhtmncdca1gno5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "20",
+      "Name": "C. Aránguiz",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/8wlyh0e8178je0hylqjifbkr9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "6",
+      "Name": "F. Sierralta",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Chile/thumbs/a1oi2uvchhnwi4kqw9npdp0q1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "22",
+      "Name": "B. Brereton",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Chile/thumbs/aki4rp2wba5l3t05fzymgot0p.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "7",
+      "Name": "C. Pinares",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/avzd8n4n9x655hu62cspydot1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "19",
+      "Name": "T. Alarcón",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/b9b44wsl4d24yps6luijnhgix.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "23",
+      "Name": "G. Castellón",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Chile/thumbs/ba16wtzl7nbgtq9jl2it5suz9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "26",
+      "Name": "C. Montes",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Chile/thumbs/bshgus0nrgpditz8u2s9xjdyi.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "13",
+      "Name": "E. Pulgar",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/c5lzozvx7q897ugyibpfw3zyt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "16",
+      "Name": "F. Mora",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Chile/thumbs/d26h7rvp8lvkvo0wmhdryqwgl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "8",
+      "Name": "A. Vidal",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/egwixywduy5wwdjzov0s0jydx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "27",
+      "Name": "P. Aránguiz",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Chile/thumbs/m1lbmlled2xtj2ilk4oiyrc9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Chile",
+      "Number": "10",
+      "Name": "A. Sánchez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Chile/thumbs/vl1b0gayryiqvl5dlukpmswl.png"
+    }
+  ],
+  "Colombia": [
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "18",
+      "Name": "R. Borré",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/2x5f35hk2urqlgoito1vgb3yt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "7",
+      "Name": "D. Zapata",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/30gsjr0xlmjulnz227zfxga8l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "26",
+      "Name": "F. Otero",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/30gtuaum6m188or821e8smitx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "24",
+      "Name": "J. Lucumí",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/3l0mj1zzhytxvm9tryvqv8kix.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "8",
+      "Name": "G. Cuéllar",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/3xtzd4wqoq2b6ak1k2tep9oet.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "16",
+      "Name": "D. Muñoz",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/3yb66hal4fvr04bawz0y3efhl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "21",
+      "Name": "S. Pérez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/47wasen155qbiu6pmyp3dowr9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "23",
+      "Name": "D. Sánchez",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/4k0ni039sbjs4sqipk4v7k79x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "27",
+      "Name": "A. Morelos",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/4lb16ginbppvud84mgwirvfth.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "14",
+      "Name": "L. Díaz",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/5ch0r2awkzjfd4hv6kbw6c9gp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "4",
+      "Name": "C. Cuesta",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/68vmg4qgr11vppc48hs8402jt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "17",
+      "Name": "Y. Moreno",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/718jech83uiltggn6fwvtfil1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "22",
+      "Name": "A. Quintana",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Colombia/thumbs/8ot6xvpxww2vk01cuh3j6eh9l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "3",
+      "Name": "O. Murillo",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/8sbgxc5sow6ahmw8ac8bvcfkl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "10",
+      "Name": "E. Cardona",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/99l67wjcrj1iqtxypin6er4d1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "1",
+      "Name": "D. Ospina",
+      "IsCapitan": true,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Colombia/thumbs/9n8332rcl3v2jq0b791i0s5w5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "25",
+      "Name": "B. Perlaza",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/aht10j3axs0zakvdn46ahd8et.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "6",
+      "Name": "W. Tesillo",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/anawtbdyrtndl7gvqs3kjxmtx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "19",
+      "Name": "M. Borja",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/aqkesczefhflo2f7tyfjnkted.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "5",
+      "Name": "W. Barrios",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/ar67ahbra5aodp9pa4vyd70t1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "2",
+      "Name": "S. Medina",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/avklyjdqb9280ejj78gwtsb85.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "20",
+      "Name": "J. Campaz",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/b3aj3b1vk1pbggkchhu28pn1l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "12",
+      "Name": "C. Vargas",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Colombia/thumbs/bsijqtivxx9jbkjsh9c7ixu51.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "13",
+      "Name": "Y. Mina",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Colombia/thumbs/d4vdrtte9kb9qmlkrx1rvgk45.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "9",
+      "Name": "L. Muriel",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/ds719g843vjs279iine5otgid.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "15",
+      "Name": "M. Uribe",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/el6dn7kq3815p2zd4rppzzw7p.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "28",
+      "Name": "Y. Chará",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Colombia/thumbs/f0vfopaxrv868q0vxmx8pbx05.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Colombia",
+      "Number": "11",
+      "Name": "J. Cuadrado",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Colombia/thumbs/pconfrmsdy9aikioqz9s9lg5.png"
+    }
+  ],
+  "Ecuador": [
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "5",
+      "Name": "D. Arroyo",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/18thoegpfleusbgo4xki7g3it.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "24",
+      "Name": "L. León",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/2y5okv7vh86anayummkc6asid.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "19",
+      "Name": "G. Plata",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/2z183ceh099zdd3wq5fvs1aay.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "10",
+      "Name": "F. Martínez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/31hg178ezfpcuoupoq0caaf2t.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "26",
+      "Name": "J. Caicedo",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Ecuador/thumbs/34w0dseqk24955er7shltiggl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "14",
+      "Name": "X. Arreaga",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/3aox5gs2l4gg22h97sixaiqj9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "23",
+      "Name": "M. Caicedo",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/3uc9z96xvain84leorf4ls962.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "3",
+      "Name": "P. Hincapié",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/4foax2b7unlkev1eq6py86lii.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "27",
+      "Name": "D. Palacios",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/4hlb7ro1ytm6vyn9gkv2p2gh5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "11",
+      "Name": "M. Estrada",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Ecuador/thumbs/4mzyoimsuzfdc7n2m2i8criz9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "12",
+      "Name": "P. Ortíz",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Ecuador/thumbs/4vgrs0md7is0ix07my83dlwix.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "13",
+      "Name": "E. Valencia",
+      "IsCapitan": true,
+      "Position": "Attacker",
+      "Thumb": "~/img/Ecuador/thumbs/5e0oab3nztsl617zjkxi0d2ad.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "25",
+      "Name": "J. Carabalí",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/5oa9dza6mx1sw0i2vxldbjbze.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "20",
+      "Name": "J. Méndez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/5q5sfnmi5ppd84vids5hmjglx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "16",
+      "Name": "M. Pineida",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/61zb3r2fm9cp1vjib18nndyvp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "18",
+      "Name": "E. Preciado",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/694zvj9x9pfl4iujjgp9yqy1h.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "4",
+      "Name": "R. Arboleda",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/6gm2yd4jxvlaqa8zea26al9ed.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "15",
+      "Name": "Á. Mena",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Ecuador/thumbs/7nb8wttu9vq5vyvc3idkuci51.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "7",
+      "Name": "P. Estupiñán",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/87g6qlasqe627i5g7ir30j2sp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "1",
+      "Name": "H. Galíndez",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Ecuador/thumbs/88bgyyxom8yl4luhbh5kej9hx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "6",
+      "Name": "C. Noboa",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/8iusfo26s4cyaudbj4n6nv3yt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "28",
+      "Name": "J. Hurtado",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/9cngnum1vq8l4657wj7db4ep6.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "8",
+      "Name": "D. Díaz",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/9cz61eoarpc9p2hlv0ahm4z4l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "21",
+      "Name": "A. Franco",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Ecuador/thumbs/ar90hhts58zilw02371xgt1ih.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "2",
+      "Name": "F. Torres",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/c0hzsi93psm5tmaro90ebyhnt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "17",
+      "Name": "A. Preciado",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Ecuador/thumbs/c8m4ox6n1v89qbbjq73s5ezmx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "9",
+      "Name": "L. Campana",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Ecuador/thumbs/cill28qniq1r7s5xy7eli31wq.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Ecuador",
+      "Number": "22",
+      "Name": "A. Domínguez",
+      "IsCapitan": true,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Ecuador/thumbs/cj72b9osp7ec8lvd11gb63ys5.png"
+    }
+  ],
+  "Paraguay": [
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "15",
+      "Name": "G. Gómez",
+      "IsCapitan": true,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/11jvny64e1whywew0xintsuz9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "28",
+      "Name": "J. Enciso",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/1mf7tr17fqnddm23nx1z1tsh6.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "12",
+      "Name": "A. Aguilar",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Paraguay/thumbs/1w2ddi0onzd9ud57g3mjc8hxx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "25",
+      "Name": "B. Ojeda",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/212u3ytqb37dayhf9cp40c161.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "3",
+      "Name": "O. Alderete",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/2o3bka7gokfjkej1f600ovbo5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "4",
+      "Name": "F. Balbuena",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/2tin4likthn5nszslbnwsao5x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "17",
+      "Name": "Alejandro Romero",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/2xkudoxz92f1vgbjlsbfum3f9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "2",
+      "Name": "R. Rojas",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/4155janfjb982apivk2p0lucp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "27",
+      "Name": "J. Morel",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/5f5emdp0882ri1k6tcdw394a1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "5",
+      "Name": "G. Giménez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/5wyc0yzl39mfgquufx99bae39.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "13",
+      "Name": "A. Espínola",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/64qato879ulxeinv9chljlo7p.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "24",
+      "Name": "H. Martínez",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/67fdwcro1s98tnlsd44l0e12h.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "8",
+      "Name": "R. Sánchez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/6yo3mz13torp582on4m1qfwmh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "21",
+      "Name": "Ó. Romero",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/81q1zbd0hoacbrmnxqi8hkatx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "16",
+      "Name": "Á. Cardozo Lucena",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/894fy2nnbuncn0f9j4ow3d1x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "11",
+      "Name": "Ángel Romero",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Paraguay/thumbs/8msigs995tywn409u5tpnmytx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "20",
+      "Name": "A. Bareiro",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Paraguay/thumbs/8rykhack1yx6bchyr0ur9cq8l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "7",
+      "Name": "C. González",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Paraguay/thumbs/8ti2mugerx496c81p6p5okez9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "14",
+      "Name": "A. Cubas",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/8yu7irbyel9lwn1l3u7oke1ud.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "22",
+      "Name": "G. Ortiz",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Paraguay/thumbs/955hnxgaqj6xwrdrg3xxrfe8l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "23",
+      "Name": "M. Villasanti",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/ahd6q5p0bfqc1lmh5oh3sl7ft.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "6",
+      "Name": "J. Alonso",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/bhi98axd43utu0t84xln1nu1h.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "10",
+      "Name": "M. Almirón",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/bijr1ghojrxc61se7ebt72f9x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "26",
+      "Name": "R. Piris Da Motta",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Paraguay/thumbs/cfjqzv8pfekxe6m9v3f3h3n4l.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "19",
+      "Name": "S. Arzamendia",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Paraguay/thumbs/d2z22er0uqxu3w3h3ta36wh61.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "1",
+      "Name": "A. Silva",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Paraguay/thumbs/dfag566iqjxtr31hweecviqc5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "9",
+      "Name": "G. Ávalos",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Paraguay/thumbs/ds2luz5g0kx6vu5ux2s70mp5h.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Paraguay",
+      "Number": "18",
+      "Name": "B. Samudio",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Paraguay/thumbs/eerr4hf09n5ffij2dvov6m7e1.png"
+    }
+  ],
+  "Peru": [
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "8",
+      "Name": "S. Peña",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/2e1l4p2kxtk1hd4yeuetyua51.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "18",
+      "Name": "A. Carrillo",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/2lkra7wic5b481l7qybjh8lx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "1",
+      "Name": "P. Gallese",
+      "IsCapitan": true,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Peru/thumbs/2q8ntruz96k9ia7np1tma4udx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "10",
+      "Name": "C. Cueva",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/2u7lvws9q3r5yu76aioea6ifp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "9",
+      "Name": "G. Lapadula",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Peru/thumbs/3tc9k0ekzrt2vei2l4yjhp5g5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "3",
+      "Name": "A. Corzo",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/3ttphkk40fkp87q5mgqbhakt1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "17",
+      "Name": "L. Iberico",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Peru/thumbs/51rlz5rav7z1ioh3ksqci36c5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "7",
+      "Name": "G. Távara",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/54yepu4qxgnt7dgj160fkcnah.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "15",
+      "Name": "C. Ramos",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/5nkes4xh48o9fxzuhd5w05dqt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "2",
+      "Name": "L. Abram",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/652d6i0jem2jymjfzd8w0ndn9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "25",
+      "Name": "R. Garcés",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/6767onbefhu5qs967zsx9c2j9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "26",
+      "Name": "J. Lora",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/7gxioslgahu9ljct1isb623xm.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "11",
+      "Name": "A. Valera",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Peru/thumbs/7x93sjn5afm0exqap67az0ay2.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "12",
+      "Name": "C. Cáceda",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Peru/thumbs/7z6m4joebvyw1xn4b2mxm0251.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "6",
+      "Name": "M. Trauco",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/8nzf4bzismfr7afoale0x00r9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "5",
+      "Name": "M. Araujo",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/9fkdgor4mv7f8eqz65ugnnydx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "13",
+      "Name": "R. Tapia",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/9g4devlvymukexrvfgkipd6tx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "24",
+      "Name": "R. García",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/9itja3d90yy8lh2cxrqivpz2t.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "14",
+      "Name": "W. Cartagena",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/9jk0ae6wgso9znkuk6uyizpat.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "21",
+      "Name": "J. Carvallo",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Peru/thumbs/aemvvi0ssn46bmp1ywic0cr85.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "22",
+      "Name": "A. Callens",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/cabhrleu1pd1z0aarmf1zgkwl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "23",
+      "Name": "A. Arias",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/ckpmwkqsy8ak336315j9pqn6d.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "19",
+      "Name": "Y. Yotún",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Peru/thumbs/dqq19igp5rfd0zu25a4ojxgid.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "16",
+      "Name": "M. López",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/dux0skggr99ydjz3kn58p3wmh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "4",
+      "Name": "A. Santamaría",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Peru/thumbs/ew34ex1in43myj1umh5xcx7md.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Peru",
+      "Number": "20",
+      "Name": "S. Ormeño",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Peru/thumbs/s8szlcmrxn7t5leu5t2cnfje.png"
+    }
+  ],
+  "Uruguay": [
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "23",
+      "Name": "S. Rochet",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Uruguay/thumbs/172cgv9z0ctwmahw4kxlprlxx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "7",
+      "Name": "N. De La Cruz",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/1caijgyxkokcvu2lnrh6x37c9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "15",
+      "Name": "F. Valverde",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/1i9wi65k2foqwudeqiyih87hl.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "24",
+      "Name": "F. Gorriarán",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/1ywn594g4nv3vvqyyy16qjutx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "3",
+      "Name": "D. Godín",
+      "IsCapitan": true,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/2bywci4k45xh3xc82dz2kuc45.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "6",
+      "Name": "R. Bentancur",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/3wp8fuk07m1ph1fpmbqe7tf55.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "11",
+      "Name": "C. Cándido",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/4bu8bqzxm7q5uos3ucxgtsag9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "2",
+      "Name": "J. Giménez",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/548jzfl9higq44w9bgqvcjh05.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "22",
+      "Name": "M. Cáceres",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/74xoktrm0qxvttpznp8w7k05x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "17",
+      "Name": "M. Viña",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/8u46wgn2upd99tmmchxuw1gbt.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "26",
+      "Name": "B. Ocampo",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Uruguay/thumbs/92b22xcwri3rokbvu09htjhwq.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "5",
+      "Name": "M. Vecino",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/9462218yklkts6mod3cbfryz9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "13",
+      "Name": "G. González",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/9n447dc5s8na89g3ovx9zvbv9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "1",
+      "Name": "F. Muslera",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Uruguay/thumbs/9ofktlxhrtzgvhm5btvvlq6l1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "10",
+      "Name": "G. De Arrascaeta",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/9rs3paicwd9k8qu2tcce4uf9x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "19",
+      "Name": "S. Coates",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/a9htjxrpgqlcv577x4kvlkh5h.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "21",
+      "Name": "E. Cavani",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Uruguay/thumbs/afyga3n1mliw0btcuixt6xolx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "18",
+      "Name": "M. Gómez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Uruguay/thumbs/ats4ux8ftux1ccae259dooiqx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "4",
+      "Name": "R. Araújo",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Uruguay/thumbs/awsod0zmnrukk21d4882ji7e1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "20",
+      "Name": "J. Rodríguez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Uruguay/thumbs/bepgomq3u5u8e6d4qrsj0frh1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "25",
+      "Name": "F. Torres",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Uruguay/thumbs/bnbdnb8khsglc2ranxnorc5bd.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "14",
+      "Name": "L. Torreira",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/cp5hkhz2p2twjtiw8vphfv9hx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "9",
+      "Name": "L. Suárez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Uruguay/thumbs/d92yjctlxrjuk1wem4nmq00k5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "12",
+      "Name": "M. Campaña",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Uruguay/thumbs/e3q9barjksj9yb3obsi90i9jp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "8",
+      "Name": "N. Nández",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/elaa9le64fuyvm0ji12th4kb9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Uruguay",
+      "Number": "16",
+      "Name": "B. Rodríguez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Uruguay/thumbs/euha4w0awkqy0zo5rktvje57t.png"
+    }
+  ],
+  "Venezuela": [
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "21",
+      "Name": "A. González",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/12y3d98dg1l6r0horxcnpenrp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "13",
+      "Name": "José Martínez",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/16ckzbe3i31r8sjy5ne1w7g15.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "24",
+      "Name": "B. Manzano",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/2iii1hb3mcdxs35wa7c1zxck5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "25",
+      "Name": "R. Celis",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Venezuela/thumbs/2sqyhih507ep3hv7iwg2gluc5.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "7",
+      "Name": "J. Savarino",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/3eq3fqw11mkpwb6ici8epqz11.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "14",
+      "Name": "L. Del Pino",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/3y0xuj46ki2o96oq7jvv5fqhh.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "12",
+      "Name": "J. Graterol",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Venezuela/thumbs/4pusu2ja88szvf14irubam3ft.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "18",
+      "Name": "R. Otero",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/592f55d3oxwqtehizfa4eih1x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "19",
+      "Name": "J. Cádiz",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Venezuela/thumbs/5fcx7aiflhvguztjw8mp53b9x.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "15",
+      "Name": "J. Murillo",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Venezuela/thumbs/5oy70cjxq70r7cwtj4t1749n9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "3",
+      "Name": "M. Villanueva",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/6ram2zlda1gvj947zzmab68r9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "23",
+      "Name": "C. Cásseres",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/6vjoq2kgaq2igxoh8cvq0ieax.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "11",
+      "Name": "S. Córdova",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Venezuela/thumbs/7j0fg53og80v3mjuderenmuvp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "10",
+      "Name": "Y. Soteldo",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/97dvieed0uacwfswjllbtl4ut.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "16",
+      "Name": "R. Rosales",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/9idq486j1oumj2wgzn5oozmj9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "9",
+      "Name": "F. Aristeguieta",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Venezuela/thumbs/9rdsmagtddurspwjcqp5l4t05.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "27",
+      "Name": "Y. Cumana",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/9v62fy8496b8nde71dy0n2vv9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "22",
+      "Name": "R. Romo",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Venezuela/thumbs/ak80zcoqllp87ubfbrenem3f9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "28",
+      "Name": "L. Martínez",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/b6o9hx5v7y8t4hc6t3k4vrv11.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "6",
+      "Name": "Y. Herrera",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/c320492cbp1otejfp1i1oane1.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "2",
+      "Name": "N. Ferraresi",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/c38t4jm3u40w0kcoj2e0ngnah.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "17",
+      "Name": "Josef Martínez",
+      "IsCapitan": false,
+      "Position": "Attacker",
+      "Thumb": "~/img/Venezuela/thumbs/cjqwtxwyqdy1o1ehr8yrdbnit.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "26",
+      "Name": "E. Castillo",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/dhz2qp6vpral41ij7yofk6lzp.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "5",
+      "Name": "J. Moreno",
+      "IsCapitan": false,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/dsqrjthyx1tzu9o96s2oeyjf9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "8",
+      "Name": "T. Rincón",
+      "IsCapitan": true,
+      "Position": "Midfielder",
+      "Thumb": "~/img/Venezuela/thumbs/eqggzoepu1d4t13fw6ybebtn9.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "20",
+      "Name": "R. Hernández",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/erjg1qs9modbqfkfiz6picyqx.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "4",
+      "Name": "J. Chancellor",
+      "IsCapitan": false,
+      "Position": "Defender",
+      "Thumb": "~/img/Venezuela/thumbs/eydla4uzkgvznobv6qm4njnit.png"
+    },
+    {
+      "__class": "Player",
+      "Country": "Venezuela",
+      "Number": "1",
+      "Name": "W. Fariñez",
+      "IsCapitan": false,
+      "Position": "Goalkeeper",
+      "Thumb": "~/img/Venezuela/thumbs/paox5q06x88wn1ibq8kzpdqt.png"
+    }
+  ]
+}
