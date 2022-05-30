@@ -1,2 +1,1 @@
-# CryptoPass_Services
-Crypto Pass Public Services
+# Leaderboards API
