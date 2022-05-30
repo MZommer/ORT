@@ -1,0 +1,13 @@
+.poster {
+    width: 5rem; height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.movie {
+  transition: transform .2s;
+}
+.movie:hover {
+    transform: scale(1.02);
+    cursor: pointer;
+}

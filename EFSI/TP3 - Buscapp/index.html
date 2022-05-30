@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Fontawesome -->
+  <link href="style.css" rel="stylesheet"/>
+  <link
+    href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    rel="stylesheet"
+  />
+  <!-- Bootswatch Darkly Theme -->
+  <link
+    href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css"
+    rel="stylesheet"
+  />
+  <title>IMDB</title>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Buscador</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <form class="form-inline my-2 my-lg-0" id="filters">
+        
+        <label class="font-weight-bold text-info mr-3">Filtros</label>
+        <input type="radio" name="filter" value="" id="all" class="mx-1" checked>
+        <label class="mb-0" for="all">All</label>
+        <input type="radio" name="filter" value="movie" id="movie" class="mx-1">
+        <label class="mb-0" for="movie">Pelicula</label>
+        <input type="radio" name="filter" value="series" id="series" class="mx-1">
+        <label class="mb-0" for="series">Serie</label>
+        <input type="radio" name="filter" value="episode" id="episode" class="mx-1">
+        <label class="mr-2 mb-0" for="episode">Episodio</label>
+        <input type="radio" name="filter" value="game" id="game" class="mx-1">
+        <label class="mr-2 mb-0" for="game">Juego</label>
+        <input
+          class="form-control mr-sm-2"
+          type="search"
+          name="search"
+          id="search"
+          placeholder="Titulo"
+          required
+        >
+        <input
+          class="form-control mr-sm-2"
+          type="number"
+          name="year"
+          id="year"
+          placeholder="Año"
+          aria-label="year"
+        >
+        <button class="btn btn-outline-info my-2 my-sm-0" id="btn" onclick="return buscar()">
+          Search
+        </button>
+      </form>
+    </div>
+  </nav>
+    
+  <main>
+    <div class="container pt-3">
+      <div class="alert alert-danger d-none" role="alert" id="alert"></div>
+      <div class="mt-5">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">Titulo</th>
+              <th scope="col">Año</th>
+              <th scope="col">Tipo</th>
+              <th scope="col">
+                <div class="d-flex justify-content-center">
+                  Poster
+                </div>
+              </th>
+            </tr>
+          </thead>
+          <tbody id="table">
+            <!-- Content generated with JS -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="modal" tabindex="-1" id="modal"></div>
+  </main>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+  </body>
+</html>
