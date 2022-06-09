@@ -1,0 +1,32 @@
+#Read_Entries
+GET http://localhost:8080/v1/entries
+Accept: application/json
+Connection: keep-alive
+
+###
+#Create_Entry
+POST http://localhost:8080/v1/entries/
+Accept: application/json
+content-type: application/json
+
+{
+    "player": "Zommer",
+    "score": 13333,
+    "registered": "Yes"
+}
+
+###
+#Read_Entry
+GET http://localhost:8080/v1/entries/{id}
+Accept: application/json
+###
+#Update_Entry
+PUT http://localhost:8080/v1/entries/{id}
+Accept: application/json
+content-type: application/json
+
+{"updatejson"}
+###
+#Delete_Entry
+DELETE http://localhost:8080/v1/entries/{id}
+Accept: application/json
