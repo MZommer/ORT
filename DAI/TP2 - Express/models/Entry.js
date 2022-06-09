@@ -11,7 +11,7 @@ var EntrySchema = new Schema({
     required: "Please enter a score"
   },
   registered: {
-    type: String,
+    type: String,  // Usaria bool
     default: "No"
   }
 });
