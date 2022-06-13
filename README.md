@@ -7,6 +7,7 @@ Proyectos de ORT
 - TP2 - **Buscapp** - HTML, CSS, JS - Pagination y Infinite scroll
 - TP3 - **To-Do List** - HTML, CSS, JS - Estructura Model/View en JS
 - TP4 - **Sanitarios Campana** - HTML, CSS - Maquetado de un sitio
+- TP5 - **Sanitarios Campana** - React.js
 
 ## Desarrollo de Aplicaciones Informaticas (DAI)
 - **Bingo** - Node.js, Express.js - Backend de un juego de Bingo
