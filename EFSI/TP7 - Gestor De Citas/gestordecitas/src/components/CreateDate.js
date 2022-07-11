@@ -1,16 +1,22 @@
-import { useCallback } from 'react'
+import { useCallback } from 'react';
 import { v4 as uuidv4 } from 'uuid';
+import toast from 'react-hot-toast';
 export default function CreateDate({ createHandler }){
+    let today = new Date()
     const handleSubmit = useCallback(event => {
         event.preventDefault();
         const data = new FormData(event.currentTarget);
         const values = Object.fromEntries(data.entries());
-        // Make Valudation
+        if (values.date < today)
+            toast.error("La fecha no puede ser en el pasado!")
+        for (const [key, value] of data.entries()) {
+            if (!value)
+                return toast.error(`El campo "${key}" No puede estar vacio!`)
+        }
         values.id = uuidv4();
         createHandler(dates => [...dates, values]);
+        toast.success("Cita creada!")
     }, [createHandler])
-
-    let today = new Date()
     return (
         <div className="one-half column">
             <h2>Crear mi Cita</h2>
