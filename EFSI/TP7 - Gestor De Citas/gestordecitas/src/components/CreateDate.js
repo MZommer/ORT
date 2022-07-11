@@ -1,13 +1,14 @@
 import { useCallback } from 'react'
 import { v4 as uuidv4 } from 'uuid';
-export default function CreateDate({ setter }){
+export default function CreateDate({ createHandler }){
     const handleSubmit = useCallback(event => {
         event.preventDefault();
         const data = new FormData(event.currentTarget);
         const values = Object.fromEntries(data.entries());
+        // Make Valudation
         values.id = uuidv4();
-        setter(dates => [...dates, values]);
-    }, [setter])
+        createHandler(dates => [...dates, values]);
+    }, [createHandler])
 
     let today = new Date()
     return (

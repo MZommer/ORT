@@ -1,17 +1,21 @@
+import { useContext } from "react"
 import Date from "./Date"
-export default function DateList(props) {
+import { DatesContext } from "../App"
+
+export default function DateList({deleteHandler}) {
+    const Dates = useContext(DatesContext)
     return (
         <div className="one-half column">
             <h2>Administra tus citas</h2>
-            {props.list.map(
-                date => <Date 
-                            pet={date.pet}
-                            owner={date.owner}
-                            date={date.date}
-                            time={date.time}
-                            details={date.details}
-                            id={date.id}
-                            deleteHandler={props.deleteHandler}
+            {Dates.map(
+                _date => <Date 
+                            pet={_date.pet}
+                            owner={_date.owner}
+                            date={_date.date}
+                            time={_date.time}
+                            details={_date.details}
+                            id={_date.id}
+                            deleteHandler={deleteHandler}
                         />
             )}
         </div>
