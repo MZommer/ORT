@@ -9,10 +9,9 @@ export default function CreateDate({ createHandler }){
         const values = Object.fromEntries(data.entries());
         if (values.date < today)
             toast.error("La fecha no puede ser en el pasado!")
-        for (const [key, value] of data.entries()) {
+        for (const [key, value] of data.entries()) 
             if (!value)
-                return toast.error(`El campo "${key}" No puede estar vacio!`)
-        }
+                return toast.error(`El campo "${key}" No puede estar vacio!`) 
         values.id = uuidv4();
         createHandler(dates => [...dates, values]);
         toast.success("Cita creada!")
