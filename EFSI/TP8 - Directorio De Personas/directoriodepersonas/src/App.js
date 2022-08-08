@@ -6,6 +6,7 @@ import Stats    from "./components/Stats";
 import Person   from "./components/Person";
 import Home     from "./components/Home";
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';  
 
 function App() {
   return (
@@ -14,6 +15,10 @@ function App() {
       <Header/>
       <Routes>
         <Route path="/" element={<Home />}/>
+        <Route path="/user/:id"  element={<Person />}/>
+        <Route path="/stats" element={<Stats/>}/>
+        <Route path="/contact" element={<Contact />}/>
+        <Route component={Error404} />  
       </Routes>
     </BrowserRouter>
   </>
@@ -26,8 +31,5 @@ export default App;
 
 /*
 
-        <Route path="/persona/:ID"  element={<Person />}/>
-        <Route path="/estadisticas" element={<Stats/>}/>
-        <Route path="/contacto" element={<Contact />}/>
-        <Route component={Error404} />
+
 */

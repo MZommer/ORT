@@ -1,10 +1,19 @@
+
+
 .App {
   text-align: center;
 }
 
-.QRContainer {
-  border: 1rem solid white;
-  border-radius: 15px;
+.btn.boton{
+  border-radius: 30px;
+  background-color:#3D6D79;
+  border-color:#3D6D79;
+}
+.btn.boton:hover,
+.btn.boton:focus {
+  background-color:#2b4b53;
+  box-shadow: 0 0.5em 0.5em -0.4em #3D6D79;
+  transform: translateY(-0.25em);
 }
 
 .App-logo {

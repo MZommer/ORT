@@ -30,8 +30,8 @@ body {
   color: #4c5258;
   letter-spacing: 0.5px;
   overflow-x: hidden;
+  font-family: 'Quicksand', sans-serif;
   /*background-color: #f4f4f4;*/
-  font-family: Roboto, sans-serif;
 }
 a {
   text-decoration: none;
